@@ -1,1 +1,37 @@
-# mc-backup
+hear you can download my Minecraft world and play
+
+
+hear mainly 2 folders
+    1) World (All my Minecraft worlds are inside it)
+    2) backup (you will find my all Minecraft related assets hear like... shader, textures and skins etc...)
+
+
+
+
+their is mainly 2 types of files
+       1) .mcworld
+       2) .zip
+
+
+.mcworld files are use to export world directly.
+.zip file are only use if any kind of copy-paste mistake.
+
+
+----------- HOW TO IMPORT WORLD ----------
+
+• download .mcpack file from github/Google Drive,
+• open file manager in your phone
+• find that file you can download and click on it,
+• if showing any popup window then choose Minecraft option,
+  else your game starts automatically,
+• now wait few seconds, your game launch and shows "World Import Successfully",
+• now you can play this world normally and enjoy.
+
+
+
+*   Created By
+- Raj Desai
+- Bhavy Desai
+
+
+------------- THANKS YOU ------------
