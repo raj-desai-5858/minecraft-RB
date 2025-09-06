@@ -1,4 +1,11 @@
-in this folder you will find my all Minecraft related assets like...
+in this folder you will find link.txt file,
+open link.txt file,
+click on link,
+you will redirect Doogle Drive,
+download file from google drive,
+
+
+you will find my all Minecraft related assets like...
     • shaders
     • texture packs
     • worlds(new & old also)
